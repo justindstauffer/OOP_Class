@@ -1,2 +1,3 @@
 # OOP_Class
-Object Oriented Programming class assignments
+
+This repo consists of simple programming projects that were created in my OOP class. 
